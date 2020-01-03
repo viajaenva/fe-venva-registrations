@@ -1,0 +1,23 @@
+{
+  "name": "fe-venva-registrations",
+  "version": "1.0.0",
+  "description": "app registrations viaja en van",
+  "main": "index.js",
+  "repository": "https://github.com/viajaenva/fe-venva-registrations",
+  "author": "william ricardo ariza velez <wilarizav@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@types/node": "^13.1.2",
+    "@types/react": "^16.9.17",
+    "next": "^9.1.6",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "typescript": "^3.7.4"
+  }
+}
